@@ -1,1 +1,2 @@
 Dummy test case 01
+Dummy test case 02
